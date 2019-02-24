@@ -1,1 +1,1 @@
-# Homework for Comptuter Linguistics course
+# Homework for Computer Linguistics course
